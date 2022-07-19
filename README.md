@@ -7,11 +7,9 @@
 
 <p align="center"><img src="youtube-cypress.png" width="100%"/></p>
 
-## TL;TR;
 > **Chegou agora e quer ir direto para o código da primeira aula? [Clique aqui](https://github.com/samlucax/youtube-cypress/tree/video1), e depois faça clone do repositório. Bons estudos.**
 
 ------------
-
 ## Um curso quase gratuito - custa só uma ⭐️ aqui no repositório
 
 O *Cypress: do zero ao reporte* é uma série de vídeos para quem deseja aprender sobre Cypress na prática. Seguindo uma sequência lógica de conteúdos, o projeto vai desde o mais básico que é a criação do projeto, mostrando problemas comuns e propostas de solução, melhorias de arquitetura com padrões de projeto e finalizando com a geração de relatórios para exibir o resultado dos testes. Toda a teoria e eventuais explicações são dadas a medida em que os problemas são resolvidos, sempre em pequenas porções. Todo o conteúdo é muito prático.
@@ -82,8 +80,3 @@ Esse treinamento foi feito com muito empenho, carinho e principalmente, pensando
 Se este conteúdo ajudou você ou você acredita que pode ajudar alguém #compartilhe esse projeto 🖤
 
 Ah, e deixe uma ⭐️ no repositório para nos apoiar ⚡️#boraagilizar
-
-------------
-
-Ps.:
-Se quiser, apague o projeto do Cypress e tente fazer do zero acompanhando o vídeo. Bons estudos!
